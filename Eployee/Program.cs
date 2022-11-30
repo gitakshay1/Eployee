@@ -5,7 +5,8 @@ namespace Helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Eployee is present/absent");
+            Console.WriteLine("Calculate salary");
         }
     }
 }//UC1-Eployee present/absent
+ //UC2-calculate salary
